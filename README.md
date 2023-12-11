@@ -1,3 +1,24 @@
+# TO DO
+
+## Mandatory
+
+
+- [x] add_password -> _add password to program_
+- [x] get_password -> _get password with specified URL_
+- [x] save_passwords -> _save passwords to vault.csv -file in .csv structured format_
+- [x] load_passwords -> _load passwords from vault.csv -file which is structured as .csv file_
+
+## Optional
+
+- [x] is_strong_password -> _check password strength_
+- [x] generate_password -> _generates password for user_
+
+
+
+
+
+# Instructions
+
 # Coding a simple password manager
 
 ## Learning goals
